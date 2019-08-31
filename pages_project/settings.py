@@ -25,7 +25,7 @@ SECRET_KEY = 'otuz-s^&y!5&-#n=bodk^9_pb&w&b(lq7m*2k!*00sr!0e7@y1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mpvppages_project.herokuapp.com',
+ALLOWED_HOSTS = ['mpvppages-project.herokuapp.com',
                      '127.0.0.1',
                 ]
 
